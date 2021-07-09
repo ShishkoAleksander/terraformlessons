@@ -6,6 +6,9 @@
 # logs
 *.log
 
+# creds
+cred.txt
+
 # Directories
 .terraform/
 .vagrant/
