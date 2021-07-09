@@ -13,6 +13,9 @@
 # SSH Keys
 *.pem
 
+# executed files
+*.exe
+
 # Backup files
 *.bak
 
